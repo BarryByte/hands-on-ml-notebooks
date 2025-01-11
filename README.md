@@ -26,6 +26,14 @@ Ola Cabs is focused on driver attrition and retention. This case study involves:
 - Implementing ensemble learning techniques (Bagging and Boosting) for predictive modeling.
 - Evaluating results with metrics such as Classification Report and ROC AUC Curve, and providing actionable business insights.
 
+#### [Yulu – Hypothesis Testing](https://colab.research.google.com/drive/1t00v6mS_b8P-mXUggPZfEVRymH2s5Hp2?usp=sharing)
+Yulu is a micro-mobility service provider that faced revenue dips. This case study focuses on:
+- Exploring factors influencing demand for shared electric cycles, such as weather, working days, and seasons.
+- Using hypothesis testing techniques like 2-sample t-tests, ANNOVA, and Chi-square tests.
+- Performing EDA to identify patterns in attributes like humidity, temperature, and user counts.
+- Evaluating test assumptions and interpreting statistical significance to draw business insights.
+- Deriving actionable recommendations to address revenue challenges.
+
 ### Other Projects
 
 #### [ML-mid-term](https://colab.research.google.com/drive/1zNOuj62KfNnoTFdLYCH8OBE6coBs0cTM?usp=sharing)
