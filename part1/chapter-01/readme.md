@@ -99,7 +99,8 @@ strategy they use to succeed? How do they make predictions?
   - select fewer parameters (if every essence of the training data is captured it will learn every possible pattern which it should not learn)
 
 
- ### Key Differences between train-validate-test sets :
+### Key Differences between train-validate-test sets :
+
 #### Purpose:
 > Training Set: To train the model and adjust its parameters.
 >
